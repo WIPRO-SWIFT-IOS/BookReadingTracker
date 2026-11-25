@@ -1,4 +1,5 @@
-📚 # Book Reading Tracker 
+📚 
+# Book Reading Tracker 
 
 An iPhone app built with Swift and SwiftUI for tracking the books you read. It is protected by Face ID, supports login and registration, and shows your reading progress on a dashboard, in a card list, a cover grid and a bookshelf.
 
